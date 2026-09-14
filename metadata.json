@@ -1,0 +1,6 @@
+{
+  "name": "HAVEN AI Voice Agent",
+  "description": "Real-time AI voice conversation agent for HAVEN website development services (haven.pntr.dev).",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
